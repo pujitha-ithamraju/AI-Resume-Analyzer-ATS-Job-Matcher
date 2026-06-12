@@ -72,20 +72,6 @@ Results Displayed
 
 
 
-## Screenshots
-
-### Home Page
-
-<img width="900" alt="Home Page" src="./screenshots/home.png">
-
-
-
-### Resume Analysis Result
-
-<img width="900" alt="Result Page" src="./screenshots/results.png">
-
-
-
 ## ATS Score Calculation
 
 ### Resume Match Percentage
