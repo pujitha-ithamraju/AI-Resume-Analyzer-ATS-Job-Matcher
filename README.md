@@ -1,4 +1,4 @@
-# AI Resume Analyzer & Job Matcher
+# AI Resume Analyzer ATS Job Matcher
 
 An AI-powered Resume Analyzer that compares a candidate's resume with a Job Description (JD) and provides an ATS-style evaluation based on skills, experience, and overall job fit.
 
